@@ -1,0 +1,38 @@
+{
+    "name": "nuxt-app",
+    "private": true,
+    "scripts": {
+        "build": "nuxt build",
+        "dev": "nuxt dev",
+        "generate": "nuxt generate",
+        "preview": "nuxt preview",
+        "postinstall": "nuxt prepare",
+        "start": "nuxt start"
+    },
+    "devDependencies": {
+        "@nuxt/devtools": "latest",
+        "@nuxtjs/tailwindcss": "^6.8.0",
+        "@types/node": "^18.16.19",
+        "@vite-pwa/nuxt": "^0.1.1",
+        "nuxt": "^3.8.0",
+        "nuxt-icon": "^0.4.2"
+    },
+    "overrides": {
+        "vue": "latest"
+    },
+    "dependencies": {
+        "@pinia/nuxt": "^0.4.11",
+        "@tiptap/extension-highlight": "^2.0.4",
+        "@tiptap/extension-placeholder": "^2.1.11",
+        "@tiptap/extension-task-item": "^2.0.4",
+        "@tiptap/extension-task-list": "^2.0.4",
+        "@tiptap/extension-underline": "^2.0.4",
+        "@tiptap/pm": "^2.0.4",
+        "@tiptap/starter-kit": "^2.0.4",
+        "@tiptap/vue-3": "^2.0.4",
+        "@types/vuedraggable": "^2.24.0",
+        "@vuepic/vue-datepicker": "^5.4.0",
+        "pinia": "^2.1.4",
+        "vuedraggable": "^4.1.0"
+    }
+}
