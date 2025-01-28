@@ -2,6 +2,12 @@
 
 Taskly is a powerful task management app designed to help you stay organized, boost productivity, and track your progress effortlessly. Whether you're a professional looking to manage work tasks or an individual aiming for personal organization, Taskly has you covered.
 
+Try here: https://taskly.fitriafiq.com/
+
+Email: `test@example.com`
+
+Password: `password`
+
 ## Features
 
 - **Folder Structure:** Organize your tasks efficiently with a flexible folder structure.
